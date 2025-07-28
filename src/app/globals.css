@@ -5,6 +5,14 @@
   --foreground: #171717;
 }
 
+/* globals.css */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
