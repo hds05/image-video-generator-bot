@@ -37,7 +37,7 @@ export default function Home() {
     <div className="relative min-h-screen bg-gradient-to-br from-black via-slate-900 to-purple-950 text-white overflow-hidden">
 
       <main className="relative z-10 flex flex-col items-center justify-center px-4 pt-32 text-center">
-        <div className="inline-block rounded-xl bg-white/10 backdrop-blur-md px-6 py-4 shadow-lg">
+        <div className="inline-block rounded-xl bg-white/80 backdrop-blur-md px-6 py-4 shadow-lg">
           <h1 className="text-6xl sm:text-7xl font-extrabold bg-gradient-to-r from-purple-500 via-pink-500 to-yellow-400 bg-clip-text text-transparent drop-shadow-2xl sm:py-9">
             Imagine. Speak. Create.
           </h1>
