@@ -14,6 +14,7 @@ const mediaItems = [
   { type: 'video', src: '/riding bike.mp4', alt: 'Video 2' },
   { type: 'image', src: '/sport-motorcycle.jpg', alt: 'Design Preview' },
   { type: 'image', src: '/train.gif', alt: 'Design Preview' },
+  { type: 'image', src: '/cars.gif', alt: 'Design Preview' },
 ];
 
 export default function Home() {
