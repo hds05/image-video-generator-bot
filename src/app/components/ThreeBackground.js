@@ -47,10 +47,10 @@ export default function ThreeBackground() {
       <div
         className="absolute w-full h-full"
         style={{
-          background:
-            'linear-gradient(135deg,rgb(255, 129, 129) 0%,rgb(161, 103, 255) 100%)',
-          backgroundSize: '300% 300%',
-          animation: 'gradientFlow 18s ease infinite',
+          // background:
+          //   'linear-gradient(135deg,rgb(255, 129, 129) 0%,rgb(161, 103, 255) 100%)',
+          // backgroundSize: '300% 300%',
+          // animation: 'gradientFlow 18s ease infinite',
         }}
       />
 
